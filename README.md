@@ -44,7 +44,7 @@
 ### 🔗 快速连接 / Connect With Me
 
 <p align="left">
-  <a href="[https://codeforces.com/profile/Buckwheat](https://codeforces.com/profile/Buckwheat.)" target="_blank">
+  <a href="https://codeforces.com/profile/Buckwheat" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Buckwheat-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://leetcode.cn/u/heng-3wn/" target="_blank">
